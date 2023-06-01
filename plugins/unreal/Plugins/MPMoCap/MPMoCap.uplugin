@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.0.1",
+	"FriendlyName": "MPMoCap",
+	"Description": "Websocket server plugin and helper code for MPMoCap, a facial motion capture tool",
+	"Category": "Virtual Production",
+	"CreatedBy": "need4steve",
+	"CreatedByURL": "https://mocap.robotrebellion.xyz/",
+	"DocsURL": "https://mocap.robotrebellion.xyz/docs",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/need4steve/mpmocap/issues",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MPMoCap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WebSocketNetworking",
+			"Enabled": true
+		}
+	]
+}

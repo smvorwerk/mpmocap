@@ -1,0 +1,17 @@
+{
+  "name": "mpmocap-lib",
+  "version": "0.3.0",
+  "description": "MPMoCap is a tool that allows you to perform facial motion capture from any device and location.",
+  "author": "need4steve",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/need4steve/mpmocap.git"
+  },
+  "license": "GPL-3.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@skeletonlabs/skeleton": "^1.2.5"
+  }
+}

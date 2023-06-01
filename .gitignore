@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+
+plugins/unreal/MPMoCap/Binaries/
+plugins/unreal/MPMoCap/DerivedDataCache/
+plugins/unreal/MPMoCap/Intermediate/
+plugins/unreal/MPMoCap/Saved/
+plugins/unreal/MPMoCap/Build/
